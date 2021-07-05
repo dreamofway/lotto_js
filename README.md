@@ -3,3 +3,4 @@
 > webpack 환경에서의 babel-loader, postcss-loader, sass-loader 를 이용한
 > IE10 버전 까지의 지원 테스트
 
+https://github.com/dreamofway/lotto_js/lotto_js/dist/lotto.html
